@@ -92,6 +92,10 @@
     position: absolute;
     left: 80px;
 }
+.owner-names {
+    display: flex; 
+    justify-content: space-between;
+}
 @keyframes wheel{
     100%{
         transform: rotate(360deg);
